@@ -46,7 +46,6 @@ The translate function can help you to replace characters inside a string. If yo
 `uname -a` prints information about your system.
 
 ---
----
 
 ## Build-in VS external commands
 If you use the command `type history`, you'll notice that history is a build in command rather than an external. External commands live for example in `usr/bin/ls`. You can see this when you type `type -a ls`, you have to use the flag `-a` to list all the locations for `ls`. You need to know this because build-in commands don't have man-pages, you'll need to type `help history` if you need the man-page like help for it. Same goes for the command `which history`, this will return nothing while `which ls` will return the location.
