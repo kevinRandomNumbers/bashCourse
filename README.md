@@ -1,0 +1,1 @@
+These are my notes (in progress) for the Bash course by Dave Eddy on YT [text](https://www.youtube.com/watch?v=Sx9zG7wa4FA)
